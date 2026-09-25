@@ -1,7 +1,7 @@
 # HardwarePro – Hardware Shop POS, Stock & Inventory Management Software for Windows
 
 <p align="center">
-  <img src="assets/hardwarepro-logo.webp" alt="HardwarePro hardware shop POS and inventory management software logo" width="220" />
+  <img src="https://d2ol7oe51mr4n9.cloudfront.net/user_36caCyG7LDbziGVlgrJijPJABqi/9ec65bfc-8118-4f8f-9326-1ed0a60badf8.png" alt="HardwarePro hardware shop POS and inventory management software logo" width="220" />
 </p>
 
 <p align="center">
